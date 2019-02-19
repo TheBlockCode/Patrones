@@ -1,0 +1,5 @@
+C:\Users\Samir\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Samir\source\repos\Calculadora\Calculadora\obj\Debug\Vista\MainWindow.g.cs
+C:\Users\Samir\source\repos\Calculadora\Calculadora\obj\Debug\App.g.cs
+C:\Users\Samir\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.cache
+C:\Users\Samir\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora_MarkupCompile.lref

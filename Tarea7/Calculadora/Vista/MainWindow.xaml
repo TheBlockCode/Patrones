@@ -1,0 +1,27 @@
+﻿<Window x:Class="Calculadora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculadora"
+        mc:Ignorable="d"
+        Title="Calculadora" Height="650" Width="450">
+    <Grid>
+        <Button Content="1" HorizontalAlignment="Left" Margin="54,222,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="151,222,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="243,222,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="54,322,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="151,322,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="243,322,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="54,418,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="151,418,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="243,418,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="151,513,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48"/>
+        <Label Content="{}" HorizontalAlignment="Left" Margin="54,134,0,0" VerticalAlignment="Top" Height="70" Width="260" Background="Gray"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="338,127,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48" Background="Azure"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="338,227,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48" Background="Azure"/>
+        <Button Content="*" HorizontalAlignment="Left" Margin="338,323,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48" Background="Azure"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="338,418,0,0" VerticalAlignment="Top" Height="70" Width="70" FontSize="48" Background="Azure"/>
+
+    </Grid>
+</Window>
