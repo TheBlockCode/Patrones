@@ -1,0 +1,11 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\bin\Debug\Singleton.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\bin\Debug\Singleton.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\bin\Debug\Librerias.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\bin\Debug\Librerias.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\obj\x86\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\obj\x86\Debug\Singleton.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\obj\x86\Debug\Singleton.pdb
+C:\Users\jesus\OneDrive\Documentos\GitHub\Patrones\Tarea 2\Singleton\obj\x86\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\jesus\OneDrive\Documentos\GitHub\Patrones\Tarea 2\Singleton\obj\x86\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Documentos\GitHub\Patrones\Tarea 2\Singleton\obj\x86\Debug\Singleton.exe
+C:\Users\jesus\OneDrive\Documentos\GitHub\Patrones\Tarea 2\Singleton\obj\x86\Debug\Singleton.pdb
