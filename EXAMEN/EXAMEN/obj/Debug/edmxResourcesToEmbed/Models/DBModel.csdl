@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EXAMENModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ep">
+    <Key>
+      <PropertyRef Name="Codigo_ver" />
+    </Key>
+    <Property Name="Fecha" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Dia" Type="Int32" />
+    <Property Name="Mes" Type="Int32" />
+    <Property Name="Codigo_ver" Type="Int32" Nullable="false" />
+    <Property Name="Vendedor" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Producto" Type="Int32" />
+    <Property Name="Nombre_Produc" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Linea" Type="Int32" />
+    <Property Name="Nombre_Linea" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="Cliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Precio" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="cantidad" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="EXAMENEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ep" EntityType="Self.ep" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,14 @@
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\bin\Debug\EXAMEN_2PARTE.exe.config
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\bin\Debug\EXAMEN_2PARTE.exe
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\bin\Debug\EXAMEN_2PARTE.pdb
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\bin\Debug\MySql.Data.dll
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\bin\Debug\Google.Protobuf.dll
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\bin\Debug\MySql.Data.xml
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\obj\Debug\EXAMEN_2PARTE.csprojAssemblyReference.cache
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\obj\Debug\EXAMEN_2PARTE.CRUD.resources
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\obj\Debug\EXAMEN_2PARTE.Properties.Resources.resources
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\obj\Debug\EXAMEN_2PARTE.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\obj\Debug\EXAMEN_2PARTE.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\obj\Debug\EXAMEN_2PARTE.csproj.CopyComplete
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\obj\Debug\EXAMEN_2PARTE.exe
+C:\Users\jesus\source\repos\EXAMEN_2PARTE\EXAMEN_2PARTE\obj\Debug\EXAMEN_2PARTE.pdb
